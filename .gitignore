@@ -1,0 +1,6 @@
+.env
+data-ingest/data/yelp_academic_dataset_checkin.json
+data-ingest/data/yelp_academic_dataset_business.json
+data-ingest/data/yelp_academic_dataset_review.json
+data-ingest/data/yelp_academic_dataset_tip.json
+data-ingest/data/yelp_academic_dataset_user.json
